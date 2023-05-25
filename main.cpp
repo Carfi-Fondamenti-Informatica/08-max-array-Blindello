@@ -6,7 +6,6 @@ using namespace std;
 int main() {
     int n;
     float f;
-    cout<<"inserisci dimensione array"<<endl;
     cin>>n;
     float numeri[n];
     for (int i=0; i<n; i++) {
