@@ -1,4 +1,4 @@
-#include "Libreria.h"
+#include "Lib.h"
 
 float funzione1 (float x[], int n) {
     float f;
